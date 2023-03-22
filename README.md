@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SCP-939-83
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Html CSS and javascript
+- 🌱 I’ve finished learning Html CSS and javascript
+- I'm currently learning C#, PHP, and python
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me email 512707@vistacollege.nl on outlook
 
